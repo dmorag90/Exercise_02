@@ -2,3 +2,10 @@
   padding: 0;
   margin: 0;
 }
+body {
+  background: #f8d7da;
+}
+footer {
+  height: 75px;
+  background-color: #984c0c;
+}
