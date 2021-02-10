@@ -9,3 +9,12 @@ footer {
   height: 75px;
   background-color: #984c0c;
 }
+main {
+  min-height: 400px;
+}
+.card {
+  background: #198754;
+}
+#subBtn {
+  width: 100%;
+}
