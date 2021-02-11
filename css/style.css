@@ -2,15 +2,15 @@
   padding: 0;
   margin: 0;
 }
-body {
-  background: #f8d7da;
-}
+/* body {} */
 footer {
   height: 75px;
+}
+footer .row .col {
   background-color: #984c0c;
 }
-main {
-  min-height: 400px;
+main .container {
+  background: #f8d7da;
 }
 .card {
   background: #198754;
